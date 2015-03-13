@@ -1,3 +1,41 @@
+We can use a feature in python to build lists in a very quick way. The feature is called as list comprehensions.
+Lets walk over some quick examples:
+
+Example 1: Trying to get the square of the numbers and storing in a list.
+
+In [1]: for i in range(1,11):
+   ...:     print i*i
+   ...:     
+1
+4
+9
+16
+25
+36
+49
+64
+81
+100
+
+In [2]: [i*i for i in range(1,11)]
+Out[2]: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+Example 2: How to save the string in a list using comprehensions. 
+
+In [3]: string="today is a great day"
+
+In [5]: [i for i in string.split()]
+Out[5]: ['today', 'is', 'a', 'great', 'day']
+
+n [7]: [[i.upper(),i.capitalize()] for i in string.split()]
+Out[7]: 
+[['TODAY', 'Today'],
+ ['IS', 'Is'],
+ ['A', 'A'],
+ ['GREAT', 'Great'],
+ ['DAY', 'Day']]
+
+
 
 
 References:
