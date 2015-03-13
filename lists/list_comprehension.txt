@@ -1,0 +1,6 @@
+
+
+References:
+http://www.secnetix.de/olli/Python/list_comprehensions.hawk
+https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions
+http://www.python-course.eu/list_comprehension.php
