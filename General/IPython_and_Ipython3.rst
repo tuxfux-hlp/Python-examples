@@ -1,4 +1,5 @@
 How do i switch between python 2.x and python 3.x versions using ipython ?
+----------------------------------------------------------------------------
 
 First i installed the python2 and python3 versions
 
