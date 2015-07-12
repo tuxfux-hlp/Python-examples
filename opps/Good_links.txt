@@ -1,0 +1,19 @@
+# Object Oriented Programming:
+
+http://anandology.com/python-practice-book/object_oriented_programming.html
+http://www.python-course.eu/object_oriented_programming.php
+http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/
+http://www4.ncsu.edu/~kaltofen/courses/Languages/PythonExamples/python-lectures/_build/html/lectures/three.html
+
+# Encapsulation:
+
+http://radek.io/2011/07/21/private-protected-and-public-in-python/
+https://importantshock.wordpress.com/2006/11/03/adventures-in-pythonic-encapsulation/
+
+# Operator overloading
+
+Example: http://anandology.com/python-practice-book/object_oriented_programming.html#special-class-methods
+
+# Iterators and Generators
+http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
