@@ -1,9 +1,15 @@
+
+# APIE
+Abstraction : https://www.youtube.com/watch?v=mNOXCQpPsk0&list=PLqlI1RpjIS59ziAx7YBqQ0rtyAcpgdsjm&index=9
+Polymorphism:https://www.youtube.com/watch?v=Nw6gYQzNfF0&list=PLqlI1RpjIS59ziAx7YBqQ0rtyAcpgdsjm&index=12 
+Inheritance:https://www.youtube.com/watch?v=nTuLW6Mnas4&index=11&list=PLqlI1RpjIS59ziAx7YBqQ0rtyAcpgdsjm
+Encapsulation: https://www.youtube.com/watch?v=QJXzOfFRJrE&index=10&list=PLqlI1RpjIS59ziAx7YBqQ0rtyAcpgdsjm
+
 # Object Oriented Programming:
 
 http://anandology.com/python-practice-book/object_oriented_programming.html
 http://www.python-course.eu/object_oriented_programming.php
 http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
-http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/
 http://www4.ncsu.edu/~kaltofen/courses/Languages/PythonExamples/python-lectures/_build/html/lectures/three.html
 
 # Encapsulation:
@@ -13,7 +19,14 @@ https://importantshock.wordpress.com/2006/11/03/adventures-in-pythonic-encapsula
 
 # Operator overloading
 
-Example: http://anandology.com/python-practice-book/object_oriented_programming.html#special-class-methods
+http://anandology.com/python-practice-book/object_oriented_programming.html#special-class-methods
 
-# Iterators and Generators
+# Functions overloading and overriding
+http://lgiordani.com/blog/2014/05/19/method-overriding-in-python/#.ViKC29___VM
+
+# Iterators and Generators and Decorators
 http://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
+
+# Some Exercises
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/
