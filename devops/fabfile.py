@@ -4,15 +4,13 @@ import re
 import sys
 
 env.user=['root']
-#env.hosts=['localhost','192.168.1.8']
+env.password=['password']
 
+# few more options to think about.
+
+#env.hosts=['localhost','192.168.1.8']
 #env.users=['root','key2gyaan']
 #env.passwords=['linuxrocks','redhat']
-'''
-env.roledefs = {
-  'openstack' : ['192.168.1.8'],
-  'local': ['localhost']}
-'''
 
 def trim(var):
   reg = re.compile('\n',re.M)

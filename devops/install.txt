@@ -1,0 +1,25 @@
+# first install these package in your system
+
+# pip install Fabric==1.10.2
+
+
+Later create the fabfile.py file and populate it with the entries
+please check the git link.
+
+later run ``fab -l``
+To check the list of the function written by you.
+
+To check all the options run ``fab --help``
+
+
+references:
+
+http://docs.fabfile.org/en/1.10/tutorial.html
+http://docs.fabfile.org/en/1.10/usage/fab.html
+http://docs.fabfile.org/en/1.10/api/core/operations.html
+http://docs.fabfile.org/en/1.10/
+http://www.fabfile.org/
+
+
+
+
